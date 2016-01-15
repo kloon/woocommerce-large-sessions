@@ -1,3 +1,6 @@
+=== Now part of WooCommerce 2.5 ===
+As of WooCommerce 2.5 this extension is now part of WooCommerce core, if you have run this prior you can simply remove the plugin and it will seamlessly switch over to use WooCommerce 2.5 version keeping all your current sessions in tact.
+
 === WooCommerce Large Sessions ===
 Contributors: kloon, woothemes
 Donate link: http://gerhardpotgieter.com/donate/
